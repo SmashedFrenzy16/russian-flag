@@ -2,7 +2,7 @@ import turtle
 
 s = turtle.Screen()
 t = turtle.Turtle()
-s.title("Netherlands Flag")
+s.title("Russian Flag")
 s.setup(width=800, height=600)
 
 # Title on the window
